@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'avenir next', avenir,
+    helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial,
+    sans-serif;
+  background: linear-gradient(to right, rgb(18, 72, 113), rgb(34, 111, 196));
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
